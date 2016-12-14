@@ -1,0 +1,16 @@
+{
+    "name": "el-seirh/kara-search",
+    "description": "Just a simple and easy JS table display to show karaoke songs (or whatever you want) from a csv file and make you search for your desired ones.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lukas Maeglin",
+            "email": "l@maegl.in"
+        }
+    ],
+    "require": {
+        "components/jquery": "1.*",
+        "datatables/datatables": "1.*"
+    }
+}

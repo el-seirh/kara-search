@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	background-color: light-gray;
+	font-family: Verdana;
+	color: dark-gray;
+}	
+
+#tablediv {
+	margin-top: 20px;
+    position:relative;
+}
+
+#loader {
+	font-size: 3em;
+	margin-top: 30px;
+}
+
+.dataTables_wrapper .dataTables_filter {
+  	float: right;
+	font-size: 5em;
+}
+.dataTables_wrapper .dataTables_filter input {
+  	margin-left: 30px;
+  	width: 700px;
+	font-size: 1em;
+}
