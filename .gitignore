@@ -1,1 +1,36 @@
-/vendor/
+# WHM .h files #
+################
+.h/
+
+vendor/
+
+# composer.phar #
+#################
+composer.phar
+
+# Logs #
+########
+*.log
+
+# IDE #
+#######
+nbproject/
+.idea/
+
+# Zend Framework #
+##################
+.zfproject.xml
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Thumbs.db
+/.tmp_staging/
+.VolumeIcon.icns
+.fseventsd
+Icon^M^M
+*.un~
+*.*~
+
+
